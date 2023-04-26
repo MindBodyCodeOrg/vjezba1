@@ -15,7 +15,7 @@ Koraci:
 - odaberite `Create new App Service plan` te nakon toga opciju `FREE`
 - za opciju `Select an Application Insights resource for your app` odaberite `Skip for now`
 - trebao bi vam se prikazati popup `Always deploy the workspace...`, pritisnite `Yes`
-- s lijeve strane bi vam se trebao u Azure ekstenziji prikazati novi resurs i unutar njega vaša aplikacija. pritisnite desni klik na `Application Settings` i odaberite `Add new setting...`
+- s lijeve strane bi vam se trebao u Azure ekstenziji prikazati novi subscription, unutar subscriptiona odaberite dropdown `App Services` i unutar toga bi se trebala nalaziti vaša aplikacija. Otvorite dropdown aplikacije te pritisnite desni klik na `Application Settings` i odaberite `Add new setting...`
 - u input zalijepite ovaj izraz `SCM_DO_BUILD_DURING_DEPLOYMENT`
 - u sljedeći input upišite `true`
 - zadnji korak je da pritisnete desni klik na vašu aplikaciju s lijeve strane u Azure ekstenziji i iz dropdowna odaberete `Deploy to WebApp...`
