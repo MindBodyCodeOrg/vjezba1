@@ -2,6 +2,15 @@
 
 Ovo je repozitorij vezan uz vježbu 1
 
+## kloniranje projekta
+
+Kako biste klonirali projekt, pritisnite zeleni gumb(dropdown) `<> Code`, zatim pritisnite `HTTPS` te s desne strane pritisnite tipku za kopiranje linka.
+
+Otvorite folder gdje želite klonirati ovu vježbu. Otvorite terminal u tom folderu i zatim pokrenite sljedeće komande:
+
+- `git clone <zalijepite-iskopirani-link>`
+- `cd vjezba1`
+
 ## pokretanje projekta
 
 Kako biste pokrenuli aplikaciju, otvorite repozitorij te pokrenite terminal.
