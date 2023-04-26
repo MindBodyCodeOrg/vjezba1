@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "undefined/subscriptions/a5486b4a-c04d-4ae4-a73e-d796ca998098/resourceGroups/VjezbaBorna/providers/Microsoft.Web/sites/VjezbaBorna",
+	"appService.deploySubpath": "."
+}
