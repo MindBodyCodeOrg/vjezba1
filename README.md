@@ -19,3 +19,4 @@ Koraci:
 - u input zalijepite ovaj izraz `SCM_DO_BUILD_DURING_DEPLOYMENT`
 - u sljedeći input upišite `true`
 - zadnji korak je da pritisnete desni klik na vašu aplikaciju s lijeve strane u Azure ekstenziji i iz dropdowna odaberete `Deploy to WebApp...`
+- nista za dodati, samo pokusavam :)
